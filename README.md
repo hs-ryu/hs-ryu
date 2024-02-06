@@ -4,6 +4,8 @@
 - 2022.03 ~ 2022.12 : Apple Developer Academy @POSTECH 1기 주니어 러너
 - 2021.01 ~ 2021.12 : 삼성 청년 SW 아카데미 5기
 
+
+
 ## ⚙️ Tools
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 
